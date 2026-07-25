@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+        "fileHash": "sha256-3b3da920f6c1c1b8bd3323fb2112d1ee85e13578e78440b09510f4cf5005566a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nirmaleeswar30/NetMirror-Extension",
+        "fileSize": 37820,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "nirmaleeswar30"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 43,
+        "internalName": "Netmirror",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/builds/Netmirror.cs3",
+        "name": "Netmirror"
+    }
+]
